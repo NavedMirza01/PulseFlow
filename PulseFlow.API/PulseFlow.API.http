@@ -1,0 +1,6 @@
+@PulseFlow.API_HostAddress = http://localhost:5291
+
+GET {{PulseFlow.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
